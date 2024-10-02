@@ -1,5 +1,6 @@
 # General Information
 
+<img src="../../.gitbook/assets/image (140).png" alt="">
 This Programmer’s Manual is designed to help in getting the most out of the ML STAR.
 
 Please read through the ML STAR  Line  Operator’s  Manual before beginning to operate the instrument. This manual should be read with particular attention for it contains important information about the ML STAR.

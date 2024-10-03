@@ -1,7 +1,7 @@
 # Table of contents
 
 ## Part I: General and Installation Information
-
+* [General Information](v4.md)
 * [General Information](README.md)
   * [About this Manual](Part\_I/General\_Information/About\_this\_Manual.md)
   * [Use of the ML STAR](Part\_I/General\_Information/Use\_of\_ML\_STAR.md)

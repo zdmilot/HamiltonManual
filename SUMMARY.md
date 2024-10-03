@@ -94,3 +94,7 @@
   * [Guidelines for Oracle Database setup as an optional database engine for VENUS.](references/oracle-database/guidelines-for-oracle-database-setup-as-an-optional-database-engine-for-venus..md)
 * [CFR 21 Part 11](references/cfr-21-part-11/README.md)
   * [Security settings and compliance standards, necessary for regulated industries.](references/cfr-21-part-11/security-settings-and-compliance-standards-necessary-for-regulated-industries..md)
+
+## Group 1
+
+* [Page 1](group-1/page-1.md)

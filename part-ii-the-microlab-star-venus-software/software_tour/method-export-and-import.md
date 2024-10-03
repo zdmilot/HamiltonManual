@@ -22,7 +22,7 @@ The advantage of such an export-import transfer is that not all labware, librari
 
 Exporting methods is also a useful procedure for backing up the methods.
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>All data will be compressed, so a complete method can be transferred easily even through e-mail.</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>All data will be compressed, so a complete method can be transferred easily even through e-mail.</p></td></tr></tbody></table>
 
 <details>
 

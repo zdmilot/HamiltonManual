@@ -25,5 +25,5 @@ If not all labware and libraries needed for the daily work are installed, or if 
 \
 
 
-<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>A checkbox next to a plus sign does not mean that all possible selections in the tree structure below are also checked.</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>A checkbox next to a plus sign does not mean that all possible selections in the tree structure below are also checked.</p></td></tr></tbody></table>
 

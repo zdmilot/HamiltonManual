@@ -1,2 +1,0 @@
-# VENUS Software Documentation
-

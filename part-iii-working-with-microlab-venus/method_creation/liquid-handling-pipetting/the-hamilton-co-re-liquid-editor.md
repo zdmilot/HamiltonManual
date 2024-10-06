@@ -1,13 +1,8 @@
 # The Hamilton CO-RE Liquid Editor‌
 
-### _The Hamilton CO-RE Liquid Editor‌_
+## _Concept of Liquid Classes‌_
 
-\
-
-
-1.  #### _‌Concept of Liquid Classes‌_
-
-    \
+1.  \
 
 
     _Liquid classes manage the background parameters for pipetting._

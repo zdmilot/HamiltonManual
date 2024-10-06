@@ -52,6 +52,7 @@
   * [Adding Labware on the Deck](Part\_III/Deck\_Layout/Adding\_Labware.md)
 * [How to Create a Method](Part\_III/Method\_Creation/README.md)
   * [New Method](Part\_III/Method\_Creation/New\_Method.md)
+  * [‌Linking a Deck to a Method‌](part-iii-working-with-microlab-venus/method\_creation/linking-a-deck-to-a-method.md)
   * [Liquid Handling (Pipetting)‌](part-iii-working-with-microlab-venus/method\_creation/liquid-handling-pipetting/README.md)
     * [The Air Displacement Principle‌](part-iii-working-with-microlab-venus/method\_creation/liquid-handling-pipetting/the-air-displacement-principle.md)
     * [From Aspiration to Dispense](part-iii-working-with-microlab-venus/method\_creation/liquid-handling-pipetting/from-aspiration-to-dispense.md)

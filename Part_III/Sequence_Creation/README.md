@@ -1,55 +1,54 @@
 # How to Create a Sequence
 
-1.
-   1.  The sequence editor is part of the system deck editor. It is activated by clicking the “Sequences” Tab. With the sequence editor, the programmer declares series of cavities (containers) in an order in which they are processed by the instrument.
+1.  The sequence editor is part of the system deck editor. It is activated by clicking the “Sequences” Tab. With the sequence editor, the programmer declares series of cavities (containers) in an order in which they are processed by the instrument.
 
-       Automatic Creation of a Sequence
+    Automatic Creation of a Sequence
 
-       1. If a labware is added to the deck, a default sequence is generated automatically (as long as the ‘Generate default deck sequence’ checkbox is activated).
-       2.  The system checks which stamp tool is activated. The active stamp tool will be used for the sequence creation in the "Stamp Tool" Tab. To change the stamp tool, click the appropriate Probe Head Type.
+    1. If a labware is added to the deck, a default sequence is generated automatically (as long as the ‘Generate default deck sequence’ checkbox is activated).
+    2.  The system checks which stamp tool is activated. The active stamp tool will be used for the sequence creation in the "Stamp Tool" Tab. To change the stamp tool, click the appropriate Probe Head Type.
 
-           \
-
-
-           ![stamp](../../.gitbook/assets/Image\_446.gif)
-
-           \
-
-       3.  To enable the automatic sequence generation, click on the “Labware” Tab, used when adding labware. Tick the “Generate default deck sequence” Box as highlighted on the image below.
-
-           \
+        \
 
 
-           ![image](../../.gitbook/assets/Image\_447.png)
-       4. Dependent to the active stamp tool, the automatic generated deck sequence on the new labware will be created.
+        ![stamp](../../.gitbook/assets/Image\_446.gif)
 
-       \
+        \
 
+    3.  To enable the automatic sequence generation, click on the “Labware” Tab, used when adding labware. Tick the “Generate default deck sequence” Box as highlighted on the image below.
 
-       ![image](../../.gitbook/assets/Image\_448.jpg)
-
-       \
+        \
 
 
-       Creating a Sequence Manually
+        ![image](../../.gitbook/assets/Image\_447.png)
+    4. Dependent to the active stamp tool, the automatic generated deck sequence on the new labware will be created.
 
-       Besides automatic created sequences, the Hamilton VENUS Software also allows the creation of sequences manually. This gives maximum flexibility and allows total control of the pipetting process. As a simple example, pipetting into every odd column of a plate shall be done. Instead of jumping around in an automatic sequence by only setting a current and end position, create a sequence that only contains all desired wells for the aspiration.
-
-       \
-
-
-       To create a new sequence, perform the following steps:
-
-       1. Open the system deck and select the “Sequences” Tab.
-       2.  Click the \[Clear Select] Button to make sure no sequence is selected.
-
-           ![image](../../.gitbook/assets/Image\_449.gif)
-       3.  In the system deck window, select by clicking on the wells to add these labware positions to a sequence. The selected positions are highlighted in dark brown as shown below.
-
-           \
+    \
 
 
-           Nun\_96\_Fl\_Lb\_000
+    ![image](../../.gitbook/assets/Image\_448.jpg)
+
+    \
+
+
+    Creating a Sequence Manually
+
+    Besides automatic created sequences, the Hamilton VENUS Software also allows the creation of sequences manually. This gives maximum flexibility and allows total control of the pipetting process. As a simple example, pipetting into every odd column of a plate shall be done. Instead of jumping around in an automatic sequence by only setting a current and end position, create a sequence that only contains all desired wells for the aspiration.
+
+    \
+
+
+    To create a new sequence, perform the following steps:
+
+    1. Open the system deck and select the “Sequences” Tab.
+    2.  Click the \[Clear Select] Button to make sure no sequence is selected.
+
+        ![image](../../.gitbook/assets/Image\_449.gif)
+    3.  In the system deck window, select by clicking on the wells to add these labware positions to a sequence. The selected positions are highlighted in dark brown as shown below.
+
+        \
+
+
+        Nun\_96\_Fl\_Lb\_000
 
 \
 

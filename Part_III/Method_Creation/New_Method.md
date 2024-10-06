@@ -24,11 +24,12 @@
     \
 
 
-    [If an existing system deck will be used for a method that will be newly programmed, it has to be linked to the new method. How to create a system deck is described in ](New\_Method.md#bookmark128)Section 5.3 System Deck.
+    If an existing system deck will be used for a method that will be newly programmed, it has to be linked to the new method.
+*
 
     To link the deck layout to the new method, simply follow these steps:
 
-    1.  Click the "Method  Instruments and Smart Steps..." Menu. The “Instruments” Dialog will appear.
+    1.  Click the "Method -> Instruments and Smart Steps..." Menu. The “Instruments” Dialog will appear.
 
         \
 

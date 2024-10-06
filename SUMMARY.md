@@ -40,7 +40,10 @@
   * [Command Overview by Step Groups](Part\_II/Software\_Tour/Command\_Overview.md)
   * [System Deck](Part\_II/Software\_Tour/System\_Deck.md)
   * [Sequences](Part\_II/Software\_Tour/Sequences.md)
-  * [Labware](Part\_II/Software\_Tour/Labware.md)
+  * [Labware](part-ii-the-microlab-star-venus-software/software\_tour/labware/README.md)
+    * [Labware Types](part-ii-the-microlab-star-venus-software/software\_tour/labware/labware-types.md)
+    * [Reference Position](part-ii-the-microlab-star-venus-software/software\_tour/labware/reference-position.md)
+    * [Height Parameters](part-ii-the-microlab-star-venus-software/software\_tour/labware/height-parameters.md)
 
 ## Part III: Working with Microlab VENUS
 

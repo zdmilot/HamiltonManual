@@ -59,6 +59,21 @@ A selection is necessary only in the case of two or more instruments linked toge
 {% endtab %}
 
 {% tab title="Easy Steps" %}
+The EASY Steps belong to the “ML STAR” Group found in the method editor toolbox window. These commands are indicated by orange-colored backgrounds of the icons
 
+| Icon                                                                          | Name/Function                                                                      |
+| ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| <img src="../../.gitbook/assets/image (193).png" alt="" data-size="original"> | <p>1000μl Channel Aspirate</p><p>Aspirate liquid with the pipetting channels</p>   |
+| <img src="../../.gitbook/assets/image (194).png" alt="" data-size="original"> | <p>1000μl Channel Dispense</p><p>Dispense with the pipetting channels</p>          |
+| <img src="../../.gitbook/assets/image (195).png" alt="" data-size="original"> | <p>5ml Channel Aspirate</p><p>Aspirate liquid with the pipetting channels</p>      |
+| <img src="../../.gitbook/assets/image (196).png" alt="" data-size="original"> | <p>5ml Channel Dispense</p><p>Dispense with the pipetting channels</p>             |
+| <img src="../../.gitbook/assets/image (197).png" alt="" data-size="original"> | <p>CO-RE 96 Head Aspirate</p><p>Aspirate liquid with the CO-RE 96 Probe Head</p>   |
+| <img src="../../.gitbook/assets/image (198).png" alt="" data-size="original"> | <p>CO-RE 96 Head Dispense</p><p>Dispense liquid with the CO-RE 96 Probe Head</p>   |
+| <img src="../../.gitbook/assets/image (199).png" alt="" data-size="original"> | <p>CO-RE 384 Head Aspirate</p><p>Aspirate liquid with the CO-RE 384 Probe Head</p> |
+| <img src="../../.gitbook/assets/image (200).png" alt="" data-size="original"> | <p>CO-RE 384 Head Dispense</p><p>Dispense liquid with the CO-RE 384 Probe Head</p> |
+| <img src="../../.gitbook/assets/image (201).png" alt="" data-size="original"> | <p>1000μl Channel CO-RE Grip Transport</p><p>Transport a plate with CO-RE Grip</p> |
+| <img src="../../.gitbook/assets/image (202).png" alt="" data-size="original"> | <p>5ml Channel CO-RE Grip Transport</p><p>Transport a plate with CO-RE Grip</p>    |
+| <img src="../../.gitbook/assets/image (203).png" alt="" data-size="original"> | <p>SWAP Transport</p><p>Transport a plate with iSWAP</p>                           |
 {% endtab %}
 {% endtabs %}
+

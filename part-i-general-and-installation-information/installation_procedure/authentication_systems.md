@@ -79,7 +79,7 @@ VENUS Software has five different levels of access authorization.
     \
 
 
-    <table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""></td><td><p>NOTE </p><p>The content on the “Locations” Screen will be different for each customer location.</p></td></tr></tbody></table>
+    <table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""></td><td><p>NOTE </p><p>The content on the “Locations” Screen will be different for each customer location.</p></td></tr></tbody></table>
 
     \
 
@@ -153,7 +153,7 @@ Hamilton Software has four different levels of access authorization.
 
     Password: Hamilton
 
-    <table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>Remember that user names and passwords are case-sensitive.</p></td></tr></tbody></table>
+    <table data-header-hidden><thead><tr><th width="145"></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" data-size="original"></td><td><p>NOTE</p><p>Remember that user names and passwords are case-sensitive.</p></td></tr></tbody></table>
 
 
 8.  Proceed to the “Manage Users” Tab in the system configuration editor to define the user rights.

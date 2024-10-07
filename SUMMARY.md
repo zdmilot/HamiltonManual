@@ -98,7 +98,7 @@
 * [Loading Labware / Labware Handling](additional-sections/labware\_handling.md)
 * [iSWAP](additional-sections/iswap.md)
 * [CO-RE Gripper](additional-sections/co\_re\_gripper.md)
-* [Tube Handling Tools‌](additional-sections/tube-handling-tools.md)
+* [Tube-gripper‌](additional-sections/tube-gripper.md)
 * [Hamilton Heater Shaker](additional-sections/hamilton-heater-shaker.md)
 * [‌CR Needle Wash Station‌](additional-sections/cr-needle-wash-station.md)
 * [DC Needle Wash Station‌](additional-sections/dc-needle-wash-station.md)

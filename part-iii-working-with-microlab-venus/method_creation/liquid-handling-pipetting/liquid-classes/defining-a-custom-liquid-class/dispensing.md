@@ -19,7 +19,7 @@ At the end of the aspiration step, transport air has been aspirated. The first s
 
 The “Surface Part Volume” Dispensing Mode works as follows:
 
-<img src="../../../../../.gitbook/assets/image (1).png" alt="" data-size="original">
+<img src="../../../../../.gitbook/assets/image (1) (1).png" alt="" data-size="original">
 
 1. When the target well is reached, the pipetting channel starts searching for the liquid surface (cLLD).
 2. At an immersion depth of 2 mm (default setting), transport air and liquid (part volume) are dispensed.
@@ -34,7 +34,7 @@ The “Surface Part Volume” Dispensing Mode works as follows:
 
 The “Surface Empty Tip” Dispensing Mode works as follows:
 
-<img src="../../../../../.gitbook/assets/image (4).png" alt="" data-size="original">
+<img src="../../../../../.gitbook/assets/image (4) (1).png" alt="" data-size="original">
 
 1. When the target well is reached, the pipetting channel starts searching for the liquid surface (cLLD).
 2. At an immersion depth of 2 mm (default setting), transport air and liquid are dispensed while the pipetting channel is moving up in z-direction (following the liquid level).
@@ -51,7 +51,7 @@ The “Surface Empty Tip” Dispensing Mode works as follows:
 
 The “Jet Part Volume” Dispensing Mode works as follows:
 
-<img src="../../../../../.gitbook/assets/image (2).png" alt="" data-size="original">
+<img src="../../../../../.gitbook/assets/image (2) (1).png" alt="" data-size="original">
 
 1. When the target well is reached, the pipetting channel starts to move to the fixed height (dispensing height).
 2. At the dispensing height the transport air and liquid (part volume) are dispensed while the pipetting channel is moving up in z-direction (following the liquid level).
@@ -66,7 +66,7 @@ The “Jet Part Volume” Dispensing Mode works as follows:
 
 The “Jet Empty Tip” Dispensing Mode works as follows:
 
-<img src="../../../../../.gitbook/assets/image (3).png" alt="" data-size="original">
+<img src="../../../../../.gitbook/assets/image (3) (1).png" alt="" data-size="original">
 
 1. When the empty target well is reached, the pipetting channel moves to a fixed height (e.g. 2 mm above the bottom of the well).
 2. Transport air and liquid are dispensed while the pipetting channel is moving up in z-direction (following the liquid level).
